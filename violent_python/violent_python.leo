@@ -40,9 +40,12 @@
 <v t="chen.20160428135700.1"><vh>@file test_sniff.py</vh></v>
 </v>
 </v>
-<v t="chen.20160428165504.1" a="E"><vh>6 Web Recon with Python</vh>
+<v t="chen.20160428165504.1"><vh>6 Web Recon with Python</vh>
 <v t="chen.20160428165519.1"><vh>@file anonBrowser.py</vh></v>
+<v t="chen.20160429095103.1"><vh>@file imageMirror.py</vh></v>
+<v t="chen.20160429095551.1"><vh>@file sendMail.py</vh></v>
 </v>
+<v t="chen.20160429102015.1"><vh>7 Antivirus Evasion with Python</vh></v>
 </vnodes>
 <tnodes>
 <t tx="chen.20160421145715.2">for the darker side of python.
@@ -137,8 +140,9 @@ find hidden access points.
 </t>
 <t tx="chen.20160428165504.1">chapter wrap-up
 
- In our own code, we created a class to mimic a web browser while increasing anonymity, scraped a website, used
+    In our own code, we created a class to mimic a web browser while increasing anonymity, scraped a website, used
 the power of Google, leveraged Twitter to learn more about a target, and then
-finally brought all of those details together to send a specially crafted email to our target</t>
+    finally brought all of those details together to send a specially crafted email to our target</t>
+<t tx="chen.20160429102015.1">chapter wrap-up</t>
 </tnodes>
 </leo_file>
