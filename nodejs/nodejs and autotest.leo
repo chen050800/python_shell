@@ -22,7 +22,7 @@
 </v>
 <v t="chen.20160425150900.1" a="E"><vh>nodejs and telnet client lib</vh>
 <v t="chen.20160426161459.1"><vh>git的库信息</vh></v>
-<v t="chen.20160503141301.1"><vh>newHeadline</vh></v>
+<v t="chen.20160503141301.1"><vh>@file telnet_promiese.js</vh></v>
 </v>
 <v t="chen.20160503141402.1" a="E"><vh>nodejs and 串口通信</vh>
 <v t="chen.20160503141416.1"><vh>串口通信程序</vh></v>
@@ -66,7 +66,6 @@ https://github.com/mkozjak/node-telnet-client
 
 telnet server
 https://github.com/TooTallNate/node-telnet</t>
-<t tx="chen.20160503141301.1"></t>
 <t tx="chen.20160503141402.1"></t>
 <t tx="chen.20160503141416.1">https://github.com/voodootikigod/node-serialport#serialport-path-options-openimmediately-callback
 
